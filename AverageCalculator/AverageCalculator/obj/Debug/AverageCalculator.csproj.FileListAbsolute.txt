@@ -1,0 +1,16 @@
+C:\Stuff\col\6S2020\OOP\AverageCalculator\AverageCalculator\bin\Debug\AverageCalculator.exe.config
+C:\Stuff\col\6S2020\OOP\AverageCalculator\AverageCalculator\bin\Debug\AverageCalculator.exe
+C:\Stuff\col\6S2020\OOP\AverageCalculator\AverageCalculator\bin\Debug\AverageCalculator.pdb
+C:\Stuff\col\6S2020\OOP\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.csprojResolveAssemblyReference.cache
+C:\Stuff\col\6S2020\OOP\AverageCalculator\AverageCalculator\obj\Debug\MainPage.g.cs
+C:\Stuff\col\6S2020\OOP\AverageCalculator\AverageCalculator\obj\Debug\MainWindow.g.cs
+C:\Stuff\col\6S2020\OOP\AverageCalculator\AverageCalculator\obj\Debug\App.g.cs
+C:\Stuff\col\6S2020\OOP\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator_MarkupCompile.cache
+C:\Stuff\col\6S2020\OOP\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator_MarkupCompile.lref
+C:\Stuff\col\6S2020\OOP\AverageCalculator\AverageCalculator\obj\Debug\MainPage.baml
+C:\Stuff\col\6S2020\OOP\AverageCalculator\AverageCalculator\obj\Debug\MainWindow.baml
+C:\Stuff\col\6S2020\OOP\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.g.resources
+C:\Stuff\col\6S2020\OOP\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.Properties.Resources.resources
+C:\Stuff\col\6S2020\OOP\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.csproj.GenerateResource.Cache
+C:\Stuff\col\6S2020\OOP\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.exe
+C:\Stuff\col\6S2020\OOP\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.pdb

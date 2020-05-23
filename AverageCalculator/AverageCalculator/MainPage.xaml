@@ -1,0 +1,22 @@
+﻿<Page x:Class="AverageCalculator.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:AverageCalculator"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="MainPage">
+
+    <Grid>
+        <TextBox x:Name="textBox_numberInput" HorizontalAlignment="Left" Height="21" Margin="10,38,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="112" TextChanged="textBox_numberInput_TextChanged"/>
+        <TextBox x:Name="textBlock_numbersAdded" IsReadOnly="True" VerticalScrollBarVisibility="Visible" HorizontalAlignment="Left" Height="175" Margin="10,99,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="143" Background="White" Opacity="0.8" FontFamily="Segoe UI Semibold"/>
+        <TextBlock x:Name="textBlock_average" HorizontalAlignment="Left" Height="28" Margin="168,146,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="112" FontFamily="Segoe UI Semibold" Background="White" Opacity="0.8"/>
+        <Label x:Name="label_meanAverage" Content="Mean/Average" HorizontalAlignment="Left" Height="27" Margin="182,114,0,0" VerticalAlignment="Top" Width="89" FontWeight="Bold" Foreground="White" FontFamily="Segoe UI Light"/>
+        <Button x:Name="button_Add" Content="Add" HorizontalAlignment="Left" Margin="127,40,0,0" VerticalAlignment="Top" Width="37" Height="19" Click="button_Add_Click" FontFamily="Segoe UI Light" Background="#FF625E5E" Foreground="White"/>
+        <Button x:Name="button_Reset" Content="Reset" HorizontalAlignment="Left" Margin="182,253,0,0" VerticalAlignment="Top" Width="80" Height="21" Click="button_Reset_Click" FontFamily="Segoe UI Light" Background="#FF625E5E" Foreground="White"/>
+        <Button x:Name="button_RemoveLast" Content="Remove Last" HorizontalAlignment="Left" Margin="191,40,0,0" VerticalAlignment="Top" Width="80" Height="19" Click="button_RemoveLast_Click" FontFamily="Segoe UI Light" Background="#FF625E5E" Foreground="White"/>
+        <Label x:Name="label_enteryournumber" Content="Enter a number." HorizontalAlignment="Left" Height="27" Margin="10,13,0,0" VerticalAlignment="Top" Width="97" FontWeight="Bold" Foreground="White" FontFamily="Segoe UI Light"/>
+        <Label x:Name="label_numbersyouveentered" Content="Numbers you've entered:" HorizontalAlignment="Left" Height="27" Margin="10,72,0,0" VerticalAlignment="Top" Width="143" FontWeight="Bold" Foreground="White" FontFamily="Segoe UI Light"/>
+    </Grid>
+</Page>
